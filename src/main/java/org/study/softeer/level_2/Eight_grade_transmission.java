@@ -2,13 +2,19 @@ package org.study.softeer.level_2;
 
 import java.util.Scanner;
 
-public class t {
+public class Eight_grade_transmission {
   public static void main(String[] args) {
 
     /*
      *
      * 문제 출처 : Softeer
      * 문제 이름 : 8단 변속기
+     *
+     * 입력 예제
+     * 1 2 3 4 5 6 7 8
+     *
+     * 출력 예제
+     * ascending
      *
      */
 

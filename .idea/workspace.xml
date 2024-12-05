@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b952a822-d2c2-41e8-b164-82208931cba9" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
@@ -14,10 +15,11 @@
       <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/study/algorithm/DFS.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/study/backjoon/No_1260.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_2/t.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_2/Grade_average.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/study/algorithm/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/algorithm/BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_2/Eight_grade_transmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_2/Eight_grade_transmission.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +81,7 @@
     "Gradle.study [:t.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -102,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733359971615</updated>
-      <workItem from="1733359972707" duration="2296000" />
+      <workItem from="1733359972707" duration="2678000" />
     </task>
     <servers />
   </component>
