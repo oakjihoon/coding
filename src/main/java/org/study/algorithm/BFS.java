@@ -60,9 +60,12 @@ public class BFS {
       int u = Integer.parseInt(stringTokenizer.nextToken());
       int v = Integer.parseInt(stringTokenizer.nextToken());
 
-      // 양방향이면 아래와 같이
+      // 양방향일 경우
       edge[u].add(v);
       edge[v].add(u);
+
+      // 단방향 일 경우
+      // edge[u].add(v);
     }
 
     // 문제에 작은 순서부터 방문하라는 이야기가 있음
