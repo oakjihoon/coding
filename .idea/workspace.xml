@@ -15,11 +15,13 @@
       <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/study/algorithm/DFS.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/study/backjoon/No_1260.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_2/Grade_average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Vehicle_test_Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Vehicle_test_NumberOfCases.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/study/algorithm/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/algorithm/BFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_2/Eight_grade_transmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_2/Eight_grade_transmission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_2/Grade_average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Grade_average.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +98,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\project\coding\study\study" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.study.softeer.level_3" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -105,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733359971615</updated>
-      <workItem from="1733359972707" duration="2678000" />
+      <workItem from="1733359972707" duration="3055000" />
     </task>
     <servers />
   </component>

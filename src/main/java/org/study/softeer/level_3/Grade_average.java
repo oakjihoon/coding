@@ -1,4 +1,4 @@
-package org.study.softeer.level_2;
+package org.study.softeer.level_3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -11,7 +11,7 @@ public class Grade_average {
     /*
      *
      * 문제 출처 : Softeer
-     * 문제 이름 : 8단 변속기
+     * 문제 이름 : 성적 평균
      *
      * 입력 예제
      * 5 3
