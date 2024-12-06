@@ -5,27 +5,28 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class Grade_average {
-  public static void main(String[] args) throws IOException {
+public class GradeAverage {
 
-    /*
-     *
-     * 문제 출처 : Softeer
-     * 문제 이름 : 성적 평균
-     *
-     * 입력 예제
-     * 5 3
-     * 10 50 20 70 100
-     * 1 3
-     * 3 4
-     * 1 5
-     *
-     * 출력 예제
-     * 26.67
-     * 45.00
-     * 50.00
-     *
-     */
+  /*
+   *
+   * 문제 출처 : Softeer
+   * 문제 이름 : 성적 평균
+   *
+   * 입력 예제
+   * 5 3
+   * 10 50 20 70 100
+   * 1 3
+   * 3 4
+   * 1 5
+   *
+   * 출력 예제
+   * 26.67
+   * 45.00
+   * 50.00
+   *
+   */
+
+  public static void main(String[] args) throws IOException {
 
     int N; // 학생 인원수
     int K; // 구간 개수
