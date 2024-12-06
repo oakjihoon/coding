@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b952a822-d2c2-41e8-b164-82208931cba9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/study/algorithm/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/study/backjoon/No_1260.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Vehicle_test_Combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Vehicle_test_NumberOfCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Commute_To_Work.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/study/algorithm/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/algorithm/BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_2/Eight_grade_transmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_2/Eight_grade_transmission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_2/Grade_average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Grade_average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/study/algorithm/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/algorithm/DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Grade_average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Grade_Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Vehicle_test_Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Vehicle_Test_By_Combination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Vehicle_test_NumberOfCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Vehicle_Test_By_NumberOfCases.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +58,12 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2pm8cXhXXWrAAHr6Iv0yQzRFGaa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -79,6 +72,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.study [:Commute_To_Work.main()].executor": "Debug",
+    "Gradle.study [:Commute_To_Work_2.main()].executor": "Run",
+    "Gradle.study [:DFS.main()].executor": "Run",
     "Gradle.study [:No_1260.main()].executor": "Run",
     "Gradle.study [:t.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -110,7 +106,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733359971615</updated>
-      <workItem from="1733359972707" duration="3055000" />
+      <workItem from="1733359972707" duration="3148000" />
+      <workItem from="1733364294431" duration="10274000" />
+      <workItem from="1733385130480" duration="1291000" />
+      <workItem from="1733440825902" duration="8748000" />
     </task>
     <servers />
   </component>
@@ -139,5 +138,26 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Commute_To_Work.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/study/softeer/level_3/Commute_To_Work.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="set" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

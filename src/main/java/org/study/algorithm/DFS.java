@@ -83,9 +83,9 @@ public class DFS {
     visited[statrNode] = true;  // 방문한 노드 처리
     resultLists.add(statrNode);
 
-    for (int integer : graphs[statrNode]) {
-      if (!visited[integer]) { // 방문하지 않은 정점이라면
-        createDfs(integer, visited, graphs, resultLists);// 다시 DFS
+    for (int node : graphs[statrNode]) {
+      if (!visited[node]) { // 방문하지 않은 정점이라면
+        createDfs(node, visited, graphs, resultLists);// 다시 DFS
       }
     }
 

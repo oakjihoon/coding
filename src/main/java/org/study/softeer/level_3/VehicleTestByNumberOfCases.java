@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class Vehicle_test_NumberOfCases {
+public class VehicleTestByNumberOfCases {
   /*
    *
    * 문제 출처 : Softeer

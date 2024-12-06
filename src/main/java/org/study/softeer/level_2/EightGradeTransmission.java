@@ -2,7 +2,7 @@ package org.study.softeer.level_2;
 
 import java.util.Scanner;
 
-public class Eight_grade_transmission {
+public class EightGradeTransmission {
   public static void main(String[] args) {
 
     /*
