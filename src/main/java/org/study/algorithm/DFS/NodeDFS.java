@@ -1,4 +1,4 @@
-package org.study.algorithm;
+package org.study.algorithm.DFS;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
-public class DFS {
+public class NodeDFS {
   static int node;
   static int edge;
   static int startNode;
